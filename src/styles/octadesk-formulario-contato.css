@@ -1,0 +1,96 @@
+.octadesk__custom-form__alert {
+}
+.octadesk__custom-form__alert--success {
+}
+.octadesk__custom-form__alert--warning {
+}
+.octadesk__custom-form__alert--danger {
+}
+.octadesk__custom-form__message--error {
+}
+.octadesk__custom-form__container {
+}
+.octadesk__custom-form__label__required
+  .octadesk__custom-form__labe
+  label.octadesk__custom-form__label {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 14px;
+  color: #363e46;
+}
+.octadesk__custom-form__submit,
+button.octadesk__custom-form__submit {
+  width: 100%;
+  height: 48px;
+  background: #35bd78;
+  font-family: "Poppins";
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+}
+.octadesk__custom-form__submit:hover,
+button.octadesk__custom-form__submit:hover {
+  background: #27ea8f;
+}
+.octadesk__custom-form__field,
+input.octadesk__custom-form__field {
+  height: 48px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+}
+.has-error .octadesk__custom-form__field,
+.has-error input.octadesk__custom-form__field {
+}
+.octadesk__custom-form__comment_description {
+}
+.octadesk__custom-form__field#comment_description {
+}
+.octadesk__custom-form__nome_do_solicitante {
+}
+.octadesk__custom-form__field#nome_do_solicitante {
+}
+.octadesk__custom-form__email_do_solicitante {
+}
+.octadesk__custom-form__field#email_do_solicitante {
+}
+.octadesk__custom-form__titulo_do_ticket {
+}
+.octadesk__custom-form__field#titulo_do_ticket {
+}
+.octadesk__custom-form__whatsapp_com_ddd {
+}
+.octadesk__custom-form__field#whatsapp_com_ddd {
+}
+.octadesk__custom-form__assunto_ticket {
+}
+.octadesk__custom-form__field#assunto_ticket {
+}
+
+#octadesk__custom-form__comment-description > label {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 14px;
+  color: #363e46;
+}
+
+.dropdown-toggle {
+  height: 48px;
+}
+
+.octadesk__custom-form__field > textarea,
+.octadesk__custom-form__comment-description > textarea {
+  height: 118px px;
+  resize: none;
+}
+
+.od-Attachments-item-thumb {
+  width: 100px;
+  height: 66px;
+}
